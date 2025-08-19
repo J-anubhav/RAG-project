@@ -9,3 +9,5 @@ While the trio diverges on many fine points, they all agreed that founders shoul
 Changing the face of launch …
 
 The most obvious way in which Starship is likely to revolutionize the industry is by continuing the trend SpaceX firmly established with the debut of Falcon 9: further lowering the cost of launching mass to space. Starship will be capable of carrying 100 to 150 tons of stuff to orbit, a paradigm-shifting quantity that far outstrips the payload capacity of any rocket that humans have ever designed.
+
+My, I'm Anubhav Jha!  I'm an AI/ML enthusiast at Medoc, diving deep into RAG, OCR, Transformers, and web development with Node.js, React, and Python. I love collaborating on Agentic AI and scalable web projects that blend innovative tech with interactive UIs. Currently, I'm exploring Vision-Language Models and advanced Node.js/React for building robust apps. In my free time, I enjoy savoring Indian cuisine—think spicy paneer tikka and aromatic biryani—while experimenting with new recipes. My hobbies include digital art using Adobe tools and exploring 3D modeling in Blender. Ask me about RAG, OCR, or Git, and let's geek out!

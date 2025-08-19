@@ -155,7 +155,7 @@ def generate_response(question, relevant_chunks):
         return GeminiResponse("Sorry, I couldn't generate a response.")
 
 # Example query and response generation
-question = "tell me about databricks"
+question = "tell me about Anubhav Jha"
 relevant_chunks = query_documents(question)
 answer = generate_response(question, relevant_chunks)
 
